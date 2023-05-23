@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+ .title-index {
+  color: #23527C;
+  font-size: 200%;
+  font-family: 'Roboto', sans-serif;;
+ }
+
+ .title-index:hover {
+  color:#183a5a;
+  text-decoration: underline;
+ }
+
+ .subtext-index {
+  color: #3D3D3D;
+  font-family: 'Roboto', serif;
+ }
